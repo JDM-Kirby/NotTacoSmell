@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NotTacoSmell
+- 👀 I’m interested in machine learning, building automation, access control, data collection, and learning programming in general.
+- 🌱 I’m currently learning python.
+- 📫 DM works well for me
